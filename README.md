@@ -59,16 +59,6 @@ This graph shows:
    - PSIM simulation file: `flyback.psimsch`
    - Simulation results output file: `flyback.smv`
 4. PCB Design: JLCPCB PCB design file is named `Flyback_circuit_2024-07-31.epro`
+5. Learning Notes: `反激电源设计.pdf`
 
-## Getting Started
-
-[Include instructions on how to use the files, run simulations, or fabricate the PCB]
-
-## Contributing
-
-[Explain how others can contribute to your project]
-
-## License
-
-[Specify the license under which you're releasing this project]
 
